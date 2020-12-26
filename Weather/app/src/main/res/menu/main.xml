@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/yesterday"
+        android:title="weather"
+        />
+    <item
+        android:id="@+id/today"
+        android:title="weather"
+        />
+    <item
+        android:id="@+id/forecast1"
+        android:title="weather"
+        />
+    <item
+        android:id="@+id/forecast2"
+        android:title="weather"
+        />
+    <item
+        android:id="@+id/forecast3"
+        android:title="weather"
+        />
+    <item
+        android:id="@+id/forecast4"
+        android:title="weather"
+        />
+    <item
+        android:id="@+id/cancel_concern"
+        android:title="weather"
+        />
+
+</menu>
